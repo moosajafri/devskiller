@@ -1,0 +1,31 @@
+{
+  "name": "devskiller-javascript-redux-selectors-hr-department-trainings",
+  "author": "Devskiller",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@types/jest": "^24.9.1",
+    "@types/node": "^12.12.53",
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "^16.9.8",
+    "immer": "^7.0.7",
+    "jest": "^26.3.0",
+    "jest-cli": "^26.3.0",
+    "jest-junit": "^11.1.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8"
+  },
+  "scripts": {
+    "test": "CI=true jest --testResultsProcessor='jest-junit' --verbose",
+    "test:watch": "jest --verbose --watch"
+  },
+  "jest-junit": {
+    "outputName": "./test-results.xml",
+    "suiteName": "jest tests",
+    "suiteNameTemplate": "{filepath}",
+    "classNameTemplate": "{classname}",
+    "titleTemplate": "{title}",
+    "ancestorSeparator": " › "
+  }
+}

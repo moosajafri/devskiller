@@ -1,0 +1,98 @@
+[
+  {
+    "id": "01e226fa-9c4a-48ad-8aab-5dd20d2dc1ba",
+    "name": "Fantastic Concrete Pants",
+    "budget": 744000,
+    "team": [
+      {
+        "id": 85266,
+        "name": "Kelli Stamm"
+      }
+    ],
+    "manager": 528605
+  },
+  {
+    "id": "627e647e-21ec-4b1a-b8f6-27a3cde4c7d1",
+    "name": "Handcrafted Wooden Computer",
+    "budget": 484000,
+    "team": [
+      {
+        "id": 168575215,
+        "name": "Berta Negrete"
+      }
+    ],
+    "manager": 528605
+  },
+  {
+    "id": "21323ef7-5cf9-4754-b7f4-5aa2b3301d54",
+    "name": "Handmade Fresh Chair",
+    "budget": 5124000,
+    "team": [
+      {
+        "id": 891265620,
+        "name": "Semih Agostini"
+      },
+      {
+        "id": 85266,
+        "name": "Kelli Stamm"
+      },
+      {
+        "id": 168575215,
+        "name": "Berta Negrete"
+      }
+    ],
+    "manager": 528605
+  },
+  {
+    "id": "92829075-5477-48e8-a69b-b29dff45abcc",
+    "name": "Practical Concrete Shirt",
+    "budget": 7430000,
+    "team": [
+      {
+        "id": 9432126,
+        "name": "Thalea Heberstreit"
+      },
+      {
+        "id": 85836898,
+        "name": "Tacjana Łukasiewicz"
+      }
+    ],
+    "manager": 528605
+  },
+  {
+    "id": "aff9a279-77a5-453e-b413-4bf2e2f9723c",
+    "name": "Intelligent Rubber Soap",
+    "budget": 3782000,
+    "team": [
+      {
+        "id": 8184090,
+        "name": "Maëlys Roy"
+      },
+      {
+        "id": 9432126,
+        "name": "Thalea Heberstreit"
+      }
+    ],
+    "manager": 9928851
+  },
+  {
+    "id": "df3f32b4-112e-4f79-bd62-63cc09151369",
+    "name": "Gorgeous Rubber Fish",
+    "budget": 3605000,
+    "team": [
+      {
+        "id": 8184090,
+        "name": "Maëlys Roy"
+      },
+      {
+        "id": 51767706,
+        "name": "Chance Johns"
+      },
+      {
+        "id": 1791071,
+        "name": "Sophie Klein"
+      }
+    ],
+    "manager": 9928851
+  }
+]
